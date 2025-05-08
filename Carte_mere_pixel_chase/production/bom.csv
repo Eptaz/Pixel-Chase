@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_5V_IN,
+J2,PinHeader_1x16_P2.54mm_Vertical,1,Conn_01x16_Matrix,
+J3,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_SK6812,
+J4,PinHeader_1x16_P2.54mm_Vertical,1,Conn_01x16_IR_receivers,
+J5,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_3V3+GND IR_receivers,
+J6,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_IR_emitters,
+SW1,SW_PUSH_6mm,1,SW_Push,
+"U1, U2, U3, U4",DIP-10_W10.16mm,4,~,
+U5,esp32 dev module,1,ESP32-S3 dev module,
+U6,SOIC-28W_7.5x17.9mm_P1.27mm,1,MCP23S17_SO,
