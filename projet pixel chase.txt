@@ -1,0 +1,11 @@
+https://github.com/pixelmatix/SmartMatrix/issues/183
+https://esp32.com/viewtopic.php?f=17&t=3188
+https://marc.merlins.org/perso/arduino/post_2019-04-01_SmartMatrix_-SmartMatrix-Shield-v4-for-Teensy_-ESP32-shield-with-level-shifter_-and-SmartMatrix_GFX.html
+https://github.com/marcmerlin/SmartMatrix_GFX?tab=readme-ov-file
+https://github.com/adafruit/RGB-matrix-Panel
+
+Arduino ESP32 version 2.0
+on a eu problèmes avec strapping pins
+
+NOTE:If using DEFVAL, INT clears only if interrupt condition does not exist
+<=> on ne peut pas mcp.clearInterrupts() tant que le pin qui a déclenché l'interrupt n'est pas dans son état "normal"
